@@ -1,0 +1,49 @@
+# R session/history files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R Markdown / Quarto cache
+*_cache/
+*_files/
+*.html
+*.pdf
+
+# Raw or sensitive data files
+data/*.xlsx
+data/*.xls
+data/*.csv
+data/*.rds
+data/*.RData
+*.xlsx
+*.xls
+*.csv
+
+# Patient-level or PHI-related files
+*patient*
+*patients*
+*PHI*
+*phi*
+*raw*
+*clinical*
+*datatable5*
+
+# Model outputs / temporary results
+*.rds
+*.RDS
+*.RData
+results/*.rds
+results/*.csv
+results/*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
