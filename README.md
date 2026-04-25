@@ -64,9 +64,10 @@ Interpretation:
 ## Repository Structure
 
 ```
+├──README.md
 ├── datatable5_modified1.R # Main modeling script
 ├── requirements.R # Required R packages
-├── data/ # (Not included – see below)
+├── data/README.md # (Not included – see below)
 ├── results/ # Outputs / figures
 └── docs/ # Supporting documentation
 ```
