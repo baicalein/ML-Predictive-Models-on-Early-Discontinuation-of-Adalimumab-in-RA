@@ -117,6 +117,7 @@ yardstick
 Yoon AH, Gedeck P, Oelofsen M.
 **Predicting early discontinuation of adalimumab in patients with rheumatoid arthritis using machine learning: A specialty pharmacy–based approach.**
 Journal of Managed Care & Specialty Pharmacy. 2026;32(3):336–347.
+[Read the full paper](docs/paper_citation.md)
 
 ## Clinical Impact
 * Enables early identification of patients at risk of treatment failure
